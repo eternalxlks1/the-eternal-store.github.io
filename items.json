@@ -1,0 +1,24 @@
+{
+  "Lead (1-PACK)": ["Why buy only one lead, the main currency of the classroom?", 0, 6, "https://the-eternal-store.github.io/items/lead.html?pack=1"],
+  "Lead (5-PACK)": ["Just as bad as buying one lead.", 0, 30, "https://the-eternal-store.github.io/items/lead.html?pack=5"],
+  "Lead (10-PACK)": ["Just as bad as buying one lead.", 0, 59, "https://the-eternal-store.github.io/items/lead.html?pack=10"],
+  "Lead (25-PACK)": ["The main currency of the classroom.", 1, 23, "https://the-eternal-store.github.io/items/lead.html?pack=25"],
+  "Lead (100-PACK)": ["The main currency of the classroom.", 4, 90, "https://the-eternal-store.github.io/items/lead.html?pack=100"],
+
+  "Pencils (10-PACK)": ["A regular HB pencil, multiplied by 10.", 10, 0, "https://the-eternal-store.github.io/items/pencils.html?pack=10"],
+
+  "Notebook (STANDARD)": ["100 pages of pure note-taking power.", 2, 50, "https://the-eternal-store.github.io/items/notebook.html?type=standard"],
+  "Notebook (PREMIUM)": ["200 pages + fancy cover.", 5, 0, "https://the-eternal-store.github.io/items/notebook.html?type=premium"],
+
+  "Eraser (SMALL)": ["Removes mistakes… sometimes.", 0, 75, "https://the-eternal-store.github.io/items/eraser.html?size=small"],
+  "Eraser (LARGE)": ["For very big mistakes.", 2, 25, "https://the-eternal-store.github.io/items/eraser.html?size=large"],
+
+  "Backpack (BASIC)": ["Carries your school survival kit.", 15, 0, "https://the-eternal-store.github.io/items/backpack.html?type=basic"],
+  "Backpack (PRO)": ["Extra storage + secret pocket.", 25, 0, "https://the-eternal-store.github.io/items/backpack.html?type=pro"],
+
+  "Mystery Box": ["You don’t know what’s inside… and neither do we.", 9, 99, "https://the-eternal-store.github.io/items/mystery-box.html"],
+
+  "Ultra-Purified Water (1-PACK)": ["99.9999999999% free of bacteria!", 1, 0, "https://the-eternal-store.github.io/items/ultra-purified-water.html?size=1"],
+
+  "Ant Farm (w. 10 Ants)": ["Ten ants, because why not?", 5, 19, "https://the-eternal-store.github.io/items/ant-farm.html?ants=10"]
+}
