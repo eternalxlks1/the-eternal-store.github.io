@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Eternal Store v1.1.0</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="icon" href="https://the-eternal-store.github.io/favicon.ico" type="image/x-icon">
+  </head>
+
+  <body class="bg-light">
+
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-dark bg-dark px-3 sticky-top">
+      <span class="navbar-brand mb-0 h1">The Eternal Store</span>
+
+      <div class="d-flex gap-2">
+        <a class="btn btn-outline-light btn-sm" href="cart.html">Cart</a>
+        <a class="btn btn-outline-light btn-sm" href="https://github.com/the-eternal-store">GitHub</a>
+      </div>
+    </nav>
+
+    <!-- AUDIO -->
+    <div class="container mt-3">
+      <audio controls autoplay loop class="w-100">
+        <source src="The%20Eternal%20Store.wav" type="audio/wav">
+        Your browser does not support audio.
+      </audio>
+    </div>
+
+    <!-- HERO -->
+    <div class="container text-center mt-4">
+      <h1>Welcome to The Eternal Store</h1>
+      <p class="text-muted">Version 1.1.0 — School supplies, absurd items, and chaos.</p>
+
+      <a href="#products" class="btn btn-primary">Browse Items</a>
+      <a href="cart.html" class="btn btn-success">Go to Cart</a>
+    </div>
+
+    <!-- PRODUCTS -->
+    <div class="container mt-5" id="products">
+      <h2>Featured Items</h2>
+
+      <div class="row g-3 mt-2">
+
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <h5>Lead (25-PACK)</h5>
+              <p>The main currency of the classroom.</p>
+              <a href="items/lead.html?pack=25" class="btn btn-sm btn-primary">View</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <h5>Pencils (10-PACK)</h5>
+              <p>A regular HB pencil, multiplied by 10.</p>
+              <a href="items/pencils.html?pack=10" class="btn btn-sm btn-primary">View</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <h5>Mystery Box</h5>
+              <p>You don’t know what’s inside.</p>
+              <a href="items/mystery-box.html" class="btn btn-sm btn-primary">View</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="text-center mt-5 mb-3 text-muted">
+      <p>v1.1.0 • The Eternal Store</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
